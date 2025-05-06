@@ -1,0 +1,65 @@
+
+*{
+    color: rgb(255, 255, 255);
+    
+}
+
+          
+
+
+
+
+
+.form{
+    background-color: rgba(214, 212, 212, 0) ;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+body{
+    background-image: url("https://cdn.steamstatic.com/steamcommunity/public/images/items/377570/d8d0c5b17ddff86d54bbe65d4d7956ab27cdac06.jpg");
+
+
+
+
+}
+
+
+.button{
+
+    border-radius: 30px;
+    border-color: rgb(223, 222, 222);
+    border-left-color: rgb(17, 134, 212);
+    background-color: rgba(255, 255, 255, 0) ;
+    color: rgb(68, 104, 204);
+    
+}
+
+.login{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+color: beige;
+
+
+}
+
+.usuario{
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    color: beige;
+}
+
+.password{
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    color: beige;
+}
+
+
+.body1{
+    background-image: url("https://cdn.steamstatic.com/steamcommunity/public/images/items/377570/d8d0c5b17ddff86d54bbe65d4d7956ab27cdac06.jpg");
+}
